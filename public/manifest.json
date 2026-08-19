@@ -1,0 +1,9 @@
+{
+  "name": "Quick Quote",
+  "short_name": "QuickQuote",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EDE6D6",
+  "theme_color": "#EDE6D6",
+  "icons": []
+}
